@@ -2,4 +2,6 @@ This is a python game built using a tutorial from a YouTube video [Learn Python 
 
 I also added a little bit to it since I wanted additional customizations. I also combined some of the if statements where I could. 
 
-![Pong Screenshot](./PongScreen.png)
+<p align="center">
+    <img src="./PongScreen.png"/>
+</p>
